@@ -1,4 +1,4 @@
-# Mr. Health — Demand Forecasting for Inventory Optimization
+# Mr. Health — Case técnico
 
 Projeto de Ciência de Dados para previsão diária de demanda por produto, criado para apoiar decisões de estoque em uma rede de alimentação saudável.
 
