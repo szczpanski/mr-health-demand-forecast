@@ -1,0 +1,22 @@
+# Ambientes e cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Dados fornecidos no case
+data/raw/*
+!data/raw/.gitkeep
+*.xlsx
+*.xls
+
+# Modelos gerados
+outputs/models/*
+!outputs/models/.gitkeep
+
+# Sistema e IDE
+.DS_Store
+.vscode/
+.idea/
